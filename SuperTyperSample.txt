@@ -1,0 +1,46 @@
+User: Burning007
+Passwd:        
+
+$ sudo apt-get install python-pip python-dev build-essential 
+
+$ sudo pip install --upgrade pip 
+
+$ sudo pip install --upgrade virtualenv 
+
+For older versions of Ubuntu
+
+ 
+
+Install Easy Install
+
+$ sudo apt-get install python-setuptools python-dev build-essential 
+
+Install pip
+
+$ sudo easy_install pip 
+
+Install virtualenv
+
+$ sudo pip install --upgrade virtualenv
+
+$ sudo apt-get install python-pip python-dev build-essential 
+
+$ sudo pip install --upgrade pip 
+
+$ sudo pip install --upgrade virtualenv 
+
+For older versions of Ubuntu
+
+ 
+
+Install Easy Install
+
+$ sudo apt-get install python-setuptools python-dev build-essential 
+
+Install pip
+
+$ sudo easy_install pip 
+
+Install virtualenv
+
+$ sudo pip install --upgrade virtualenv
